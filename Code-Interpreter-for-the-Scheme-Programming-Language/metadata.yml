@@ -1,0 +1,14 @@
+---
+:id: 255539834
+:submitters:
+- :name: Matthew Hall
+  :email: hallm6@carleton.edu
+- :name: Luke Poley
+  :email: poleyl2@carleton.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-05-28 03:48:40.983851000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-05-27 20:48:40.983851000 Z
+:status: processed
+:score: 4.0

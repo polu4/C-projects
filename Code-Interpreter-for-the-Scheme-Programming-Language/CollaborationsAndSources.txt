@@ -1,0 +1,7 @@
+We met with Anna multiple times during student hours and once outside of student hours. In these meetings,
+we discussed how to print dotted pairs and how to bind primitive functions. We also talked with John
+about binding and applying primitive functions and whether primitive functions should be included inside
+of the CONS_TYPE case in eval. We did this without either us or him looking at the other's code. Furthermore,
+we also talked with Aadi about how to print dotted pairs when the dot is not going to be right before the 
+last element in the list, which we were having a problem with. We also discussed how to apply primitive functions
+with Aadi and whether or not we should have any checks for the primitive functions inside of eval.
